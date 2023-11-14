@@ -1,0 +1,52 @@
+	UNIVERSIDAD DE LAS FUERZAS ARMADAS “ESPE”
+ASIGNATURA: Programacion Orientada a objetos NRC: 16362
+ESTUDIANTE: Roberto Manuel Fajardo Collaguazo
+
+COMANDOS EN GIT:
+
+git init: Genera o reinicia un repositorio existente de Git, creando una carpeta oculta .git en repositorio local de nuestro ordenador que gestiona el historial de versiones de un proyecto. 
+
+git clone: Clona un repositorio existente en la ubicacion de un nuevo directorio que se puedan acceder por una máquina remota.
+
+Comandos necesarios para conectar Git a repositorio GitHub:
+git config --global user.name "username": Es para registrar un nuevo usuario a git
+git config --global user.email "myemail@example.com": Es para registrar un nuevo correo a git
+
+git add: Sube o se agregan los cambios que se hace en el directorio de trabajo es decir es la zona preparada para la confirmación de los cambios.
+
+git commit -m “Comentario”: Funciona para confirma y registra los cambios realizados antes de subir al respositorio.
+
+git branch: Muestra una lista de ramas o crea nuevas ramas para subir un archivo a la rama principal
+
+git remote add origin https://github.com/usario/carpeta.git: Es la ruta especifica donde se va a alojar nuestro proyecto.
+
+git push -u origin main: Sube los cambios a nuestro repositorio realizados en la rama principal de tipo main sincronizando el proyecto local al servidor.
+
+git pull: Obtiene cambios desde el repositorio remoto y los fusiona con el repositorio local.
+
+git checkout: Permite cambiar entre ramas o restaura archivos desde el área de preparación.
+
+git merge: Pemite fusionar cambios de una rama a otra.
+
+git help: Genera una lista de comandos completas con sus especificaciones de uso.
+
+git remote: Muestra información sobre los repositorios remotos asociados. 
+
+git log: Muestra el registro de confirmaciones realizados en un proyecto
+
+git status: Muestra el estado de los archivos en el directorio de trabajo y en el área de preparación.
+
+git fetch: Obtiene cambios desde el repositorio remoto pero no los fusiona es utilizado para comprobar si hay cambios disponibles.
+
+REFERENCIAS BIBLIOGRÁFICAS:
+Git - git documentation. (s/f). Git-scm.com. Recuperado el 14 de noviembre de 2023, de https://git-scm.com/docs/git
+
+
+
+
+
+
+
+
+
+
